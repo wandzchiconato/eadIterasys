@@ -1,6 +1,6 @@
 package Runners;
 
-import Steps.pesquisa;
+
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
 

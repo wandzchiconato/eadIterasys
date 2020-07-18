@@ -1,3 +1,4 @@
+
 Feature: Busca Curso
   Scenario: Efetuar a busca de um curso clicando na lupa
     Given que o visitante acessa o site da Iterasys
